@@ -30,8 +30,8 @@ To run the Personal Finance Tracker App:
 4. Sign up or log in to commence tracking your personal finances.
 
 
-
-
+## Screenshots
+<img width="1280" alt="Screenshot 2024-08-05 at 9 21 58 PM" src="https://github.com/user-attachments/assets/5ab6a205-43c7-4f66-af70-e77c7afcce80">
 
 
 
