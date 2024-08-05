@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/expense-explorer/static/css/main.8d44278b.css",
+    "main.js": "/expense-explorer/static/js/main.b4665117.js",
+    "static/media/transactions.svg": "/expense-explorer/static/media/transactions.004d9f02317991455e50b36d9dae2a26.svg",
+    "index.html": "/expense-explorer/index.html",
+    "static/media/user.svg": "/expense-explorer/static/media/user.0d3cde29811636d534d72a2ea4f24dad.svg",
+    "static/media/searchImg.svg": "/expense-explorer/static/media/searchImg.4da02613dcc315ee7fdf5edc7d9d5653.svg",
+    "main.8d44278b.css.map": "/expense-explorer/static/css/main.8d44278b.css.map",
+    "main.b4665117.js.map": "/expense-explorer/static/js/main.b4665117.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d44278b.css",
+    "static/js/main.b4665117.js"
+  ]
+}
