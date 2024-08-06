@@ -35,8 +35,8 @@ Check out the live demo: [Personal Finance Tracker App](https://finguru.netlify.
 
 ### Add Income and Expense Modal 
 <p aling="center">
- <img width="450" alt="Screenshot 2024-08-06 at 1 05 44 PM" src="https://github.com/user-attachments/assets/7962156e-7304-4e98-93ec-d8f46457045a">
- <img width="450" alt="Screenshot 2024-08-06 at 1 06 18 PM" src="https://github.com/user-attachments/assets/dedee4be-7e01-456a-a265-eb6d73a95bb9">
+ <img width="400" alt="Screenshot 2024-08-06 at 1 05 44 PM" src="https://github.com/user-attachments/assets/7962156e-7304-4e98-93ec-d8f46457045a" style="width: 50%">
+ <img width="400" alt="Screenshot 2024-08-06 at 1 06 18 PM" src="https://github.com/user-attachments/assets/dedee4be-7e01-456a-a265-eb6d73a95bb9" style="width: 50%">
 
 </p>
 
