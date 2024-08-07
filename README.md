@@ -10,6 +10,7 @@ This Personal Finance Tracker App is built using React.js for the frontend, Fire
 - **Backend:** Firebase (Authentication)
 - **Database:** Firestore
 - **CSV Import/Export:** PapaParse
+- **React-Toastify:** Used React-Toastify for seamless user alerts/notifications, enhancing app experience.
 
 ## Live Demo
 Check out the live demo: [Personal Finance Tracker App](https://finguru.netlify.app/)
